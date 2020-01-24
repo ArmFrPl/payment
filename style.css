@@ -1,0 +1,9 @@
+.btn{
+    align-self: center;
+    display: block;
+    margin: 400px auto auto;
+}
+.main{
+    border: 1px solid;
+    height: 500px;
+}
